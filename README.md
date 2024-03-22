@@ -13,7 +13,7 @@
 <p align= "center">
     <img src="https://github.com/IshmamNewaz/Webtech-ASP/blob/main/UI/Landing%20Page.png" width="1000">
     <img src="https://github.com/IshmamNewaz/Webtech-ASP/blob/main/UI/Login.png" width="1000">
-    <img src="[https://raofin.github.io/r/img/WordWeaver/3.png](https://github.com/IshmamNewaz/Webtech-ASP/blob/main/UI/Financials.png)" width="1000">
+    <img src="https://github.com/IshmamNewaz/Webtech-ASP/blob/main/UI/Financials.png" width="1000">
     <p>For More Visit: <a href="https://github.com/IshmamNewaz/Webtech-ASP/tree/main/UI">UI's</a> </p>
 </p>
 
